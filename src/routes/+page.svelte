@@ -5,7 +5,9 @@
 </script>
 
 <svelte:head>
-	<title>welcome</title>
+
+	<title>Conflict</title>
+  
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
