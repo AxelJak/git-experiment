@@ -6,7 +6,7 @@
 
 <svelte:head>
 
-	<title>Conflict</title>
+	<title>Conflict32</title>
   
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
