@@ -20,7 +20,7 @@
 			</picture>
 		</span>
 
-		to your new thin<br />Axels app
+		to your new thin<br />Tiqqe app
 	</h1>
 
 	<h2>
