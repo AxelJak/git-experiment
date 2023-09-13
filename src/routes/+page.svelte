@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Homemade</title>
+	<title>Ho222</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
