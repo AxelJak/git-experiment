@@ -20,7 +20,7 @@
 			</picture>
 		</span>
 
-		to your new thin<br />SvelteKit app
+		to your new thin<br />Axels app
 	</h1>
 
 	<h2>
