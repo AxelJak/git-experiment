@@ -29,6 +29,8 @@
 
 	<h3>stay out of test branch</h3>
 
+	<h2>ONLY IN MASTER</h2>
+
 	<Counter />
 </section>
 
