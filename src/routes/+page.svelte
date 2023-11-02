@@ -6,7 +6,7 @@
 
 <svelte:head>
 
-	<title>Conflict</title>
+	<title>Conflicting</title>
   
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
@@ -20,7 +20,7 @@
 			</picture>
 		</span>
 
-		to your new thin<br />Tiqqe app
+		to your OMG<br />Tiqqe app
 	</h1>
 
 	<h2>
