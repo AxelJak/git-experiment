@@ -6,7 +6,7 @@
 
 <svelte:head>
 
-	<title>Conflict</title>
+	<title>Merging</title>
   
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
